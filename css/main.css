@@ -41,7 +41,7 @@ body {
 
 .navigation li.active a {
 	color: #FF6760;
-	
+
 }
 
 .navigation a {
@@ -82,7 +82,7 @@ body {
 
 .header a {
 	background-color: #FF6760;
-	border: none; /** why do we say none for border ? **/
+	border: none;
     border-radius: 10px;
     color: #FFFFFF;
     display: inline-block;
@@ -107,7 +107,7 @@ body {
 	margin: 25px 0;
 	padding: 5px 0 20px 0;
 	text-align: center;
-	width:33.3333333333%; /* why is that !!!*/
+	width:33.3333333333%;
 }
 
 .item h3 {
@@ -148,7 +148,7 @@ body {
 }
 
 #socialIcons a {
-	color: #FFFFFF;     /* look it up!!!!! */
+	color: #FFFFFF;
 }
 
 #socialIcons .fa-twitter {
@@ -162,25 +162,3 @@ body {
 	border-radius: 50%;
 	padding: 5px 8px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
